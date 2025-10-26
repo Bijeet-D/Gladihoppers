@@ -59,7 +59,7 @@
             console.log("ubg235.commercial.ADS", country);
             // window.safeWindowOpen("https://unblockedgamess3.gitlab.io/", "unblockedgamess3");
             // window.safeWindowOpen("https://cmug.gitlab.io/", "cmug");
-            window.safeWindowOpen("https://ubgw.gitlab.io/", "ubgw");
+            //window.safeWindowOpen("https://ubgw.gitlab.io/", "ubgw");
         } else {
             console.log("ubg235.commercial SKIP Country", country);
         }
