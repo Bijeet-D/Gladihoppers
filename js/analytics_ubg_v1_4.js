@@ -1,4 +1,4 @@
-function loadGoogleAnalytics(id) {
+/*function loadGoogleAnalytics(id) {
     // Google tag (gtag.js)
     var firstScript= document.getElementsByTagName("script")[0];
     newScript= document.createElement("script");
@@ -21,4 +21,4 @@ window.addEventListener("load", function() {
       console.log('Human Browser');
       loadGoogleAnalytics("G-E7D3EVY6HR");
     }
-});
+});*/
