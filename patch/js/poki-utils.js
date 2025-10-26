@@ -1,4 +1,4 @@
-document.xURL= "https://poki.com/";
+/*document.xURL= "https://poki.com/";
 
 if (typeof consoleLog== 'undefined') {
   consoleLog= console.log;
@@ -58,6 +58,6 @@ xwindow = new Proxy(window, {
       return target[property];
     }
   }
-});
+});*/
 // consoleLog(xwindow.location.href);
 // consoleLog("window.xlocation.href", window.xlocation.href);
