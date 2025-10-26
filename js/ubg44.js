@@ -1,5 +1,5 @@
 // Backlinks Go Here!
-const backlinksList= [{
+/*const backlinksList= [{
   link: "https://ubg44.github.io/car-games.html",
   text: "CAR",
 }, {
@@ -90,4 +90,4 @@ window.document.body.insertBefore(backlinksPlace, window.document.body.firstChil
 
 
 addEventListener("load", insertBacklinks);
-setTimeout(closeBacklinks, 5* 60* 1000);
+setTimeout(closeBacklinks, 5* 60* 1000); */
