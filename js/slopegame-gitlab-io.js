@@ -1,5 +1,5 @@
 // Backlinks Go Here!
-const backlinksList= [{
+/*const backlinksList= [{
   link: "https://slopegame.gitlab.io/tunnel-games.html",
   text: "TUNNEL",
 }, {
@@ -68,4 +68,4 @@ window.document.body.insertBefore(backlinksPlace, window.document.body.firstChil
 }
 
 addEventListener("load", insertBacklinks);
-setTimeout(closeBacklinks, 5* 60* 1000);
+setTimeout(closeBacklinks, 5* 60* 1000); */
